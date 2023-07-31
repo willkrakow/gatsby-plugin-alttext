@@ -2,7 +2,7 @@ import utils from './utils/index';
 import * as mobilenet from '@tensorflow-models/mobilenet';
 import * as coco from '@tensorflow-models/coco-ssd';
 import * as tf from '@tensorflow/tfjs-node';
-import type { GatsbyNode, Reporter } from 'gatsby';
+import type { GatsbyNode } from 'gatsby';
 
 const { createMlImageNodeFields, isImageSharp, typeDefs, getImageBuffer, validatePluginOptions } = utils;
 
