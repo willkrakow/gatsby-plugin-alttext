@@ -1,7 +1,7 @@
 {
-    "name": "mlimage-plugin",
+    "name": "gatsby-plugin-alttext",
     "private": true,
-    "description": "A plugin to use ML on your images",
+    "description": "Generate alt text for your images using Tensorflow.js",
     "version": "0.1.0",
     "license": "0BSD",
     "scripts": {
@@ -35,9 +35,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/willkrakow/gatsby-portfolio"
+        "url": "https://github.com/willkrakow/gatsby-plugin-alttext"
     },
     "bugs": {
-        "url": "https://github.com/willkrakow/gatsby-portfolio/issues"
+        "url": "https://github.com/willkrakow/gatsby-plugin-alttext/issues"
     }
 }
